@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "852537106884",
+    "project_id": "appsresto-65a05",
+    "storage_bucket": "appsresto-65a05.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:852537106884:android:1132f6ae5bdb5164fb0491",
+        "android_client_info": {
+          "package_name": "com.onlinefoodor.aspavakebap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "852537106884-epidqjiupheted6fgad1qp3g5cgti1c0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.onlinefoodor.aspavakebap",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "852537106884-1ph303go1g1157gthf8bd6euhog6qkf1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHoSnqDQmoXrrd2XJP7VKF9aD5M4IxqlA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "852537106884-1ph303go1g1157gthf8bd6euhog6qkf1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "852537106884-6qr965mecv2b3ef6fsrctrqubqogtmdq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.onlinefoodor.miamivice"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:852537106884:android:89651833488259f7fb0491",
+        "android_client_info": {
+          "package_name": "com.onlinefoodor.miamivice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "852537106884-prprnshm2iuvf62e042nql1ip4fbd0m8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.onlinefoodor.miamivice",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "852537106884-1ph303go1g1157gthf8bd6euhog6qkf1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHoSnqDQmoXrrd2XJP7VKF9aD5M4IxqlA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "852537106884-1ph303go1g1157gthf8bd6euhog6qkf1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "852537106884-6qr965mecv2b3ef6fsrctrqubqogtmdq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.onlinefoodor.miamivice"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
